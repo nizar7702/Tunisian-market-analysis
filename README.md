@@ -1,4 +1,4 @@
-# Description du projet
-Ce projet vise à analyser les comportements des prix des actions boursières en utilisant le clustering, une méthode d'apprentissage non supervisée. 
-Le clustering permet de regrouper des actions ayant des comportements similaires, facilitant ainsi l'identification de tendances communes et l'optimisation des stratégies d'investissement. 
-Nous avons utilisé les variables "High" (prix le plus haut), "Low" (prix le plus bas) et "Close" (prix de clôture) pour effectuer cette analyse.
+# Project Description
+This project aims to analyze the behavior of stock prices using clustering, an unsupervised learning method.
+Clustering allows for grouping stocks with similar behaviors, thereby facilitating the identification of common trends and the optimization of investment strategies.
+We used the variables "High" (highest price), "Low" (lowest price), and "Close" (closing price) to perform this analysis.
